@@ -1,0 +1,30 @@
+a{
+    color: black;
+    font-size: larger;
+}
+
+div{
+    width: 500px;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    border: 5px green solid;
+    border-radius: 25%;
+    background: linear-gradient(45deg, #006b20, #00a832);
+    text-align: center;
+    margin: 12% 35%;
+}
+
+section{
+    height: 400px;
+    width: 450px;
+    padding: 50px 5%;
+}
+
+body{
+    overflow-y: hidden;
+    height: 100vh;
+    background-repeat: space;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(224, 224, 224);
+}
